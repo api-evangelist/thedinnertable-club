@@ -1,4 +1,4 @@
-# thedinnertable-club
+# The Dinner Table Club
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-thedinnertable-club is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://thedinnertable.club/
+The Dinner Table Club curates social dinner events in major US cities, bringing together strangers for multi‑course meals to foster new friendships. Founded by Tyler Tep, the club operates in New York, Washington DC, Los Angeles, Miami and San Francisco, offering curated dining experiences, a hosts handbook, and a community platform for members to connect and share stories.
+
+**Areas:** Social Dinners · Events · Restaurants · Corporate · Brands
+
+## The Dinner Table Club on APIs.io
+
+Everything profiled for The Dinner Table Club is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/thedinnertable-club/](https://apis.io/providers/thedinnertable-club/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [The Dinner Table Club API](https://apis.io/apis/thedinnertable-club/the-dinner-table-club-api/) — Public API documentation is not available; the service provides a web platform for arranging dinner events. No machine‑readable contract was found.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [The Dinner Table Club Domain Security](https://apis.io/security/thedinnertable-club/thedinnertable-club-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://thedinnertable.club/)
+- [Documentation](https://www.thedinnertable.club/guides)
+- [Terms of service](https://www.thedinnertable.club/terms-of-service)
+- [Privacy policy](https://www.thedinnertable.club/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 10.0** — minimal · rubric 0.28.0 · scored 2026-11-26
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 17.0 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/thedinnertable-club/](https://apis.io/providers/thedinnertable-club/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for The Dinner Table Club: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/thedinnertable-club/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
